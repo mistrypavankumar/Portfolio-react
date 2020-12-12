@@ -1,0 +1,315 @@
+{
+  "closed": 7,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU3NTc3NTg1Mzc=",
+      "closed": false,
+      "title": "mobile view needed to fix",
+      "createdAt": "2020-12-05T18:55:06Z",
+      "url": "https://github.com/mg143pavankumar/megas-pizza/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "megas-pizza",
+        "url": "https://github.com/mg143pavankumar/megas-pizza",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODUxODA5Nzk=",
+      "closed": false,
+      "title": "Navigation button needed to work properly",
+      "createdAt": "2020-08-25T05:25:08Z",
+      "url": "https://github.com/mg143pavankumar/Flash-Notes/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Flash-Notes",
+        "url": "https://github.com/mg143pavankumar/Flash-Notes",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODUxNzk0MjI=",
+      "closed": false,
+      "title": "database needed to add for textbox",
+      "createdAt": "2020-08-25T05:21:37Z",
+      "url": "https://github.com/mg143pavankumar/Flash-Notes/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Flash-Notes",
+        "url": "https://github.com/mg143pavankumar/Flash-Notes",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2Nzk3MDUzNjc=",
+      "closed": false,
+      "title": "Need to fix bracket button \"()\" and +/- button",
+      "createdAt": "2020-08-16T07:15:34Z",
+      "url": "https://github.com/mg143pavankumar/flutter-calculator-app/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "flutter-calculator-app",
+        "url": "https://github.com/mg143pavankumar/flutter-calculator-app",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NzI2NTA2MTQ=",
+      "closed": false,
+      "title": "fix mobile view",
+      "createdAt": "2020-08-04T09:32:44Z",
+      "url": "https://github.com/tech-introspectors/minimal-clock/issues/16",
+      "number": 16,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars2.githubusercontent.com/u/65682028?u=8b798c47f1f574f228e75b2f8caff9cbc3e867dc&v=4",
+            "name": "Sai kamal",
+            "url": "https://github.com/Dantusaikamal"
+          },
+          {
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+            "name": "Mistry Pavan Kumar",
+            "url": "https://github.com/mg143pavankumar"
+          }
+        ]
+      },
+      "repository": {
+        "name": "minimal-clock",
+        "url": "https://github.com/tech-introspectors/minimal-clock",
+        "owner": {
+          "login": "tech-introspectors",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/68457713?v=4",
+          "url": "https://github.com/tech-introspectors"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NzI2MTE0OTg=",
+      "closed": true,
+      "title": "Fix javascript file",
+      "createdAt": "2020-08-04T08:33:38Z",
+      "url": "https://github.com/tech-introspectors/minimal-clock/issues/12",
+      "number": 12,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars2.githubusercontent.com/u/65682028?u=8b798c47f1f574f228e75b2f8caff9cbc3e867dc&v=4",
+            "name": "Sai kamal",
+            "url": "https://github.com/Dantusaikamal"
+          },
+          {
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+            "name": "Mistry Pavan Kumar",
+            "url": "https://github.com/mg143pavankumar"
+          }
+        ]
+      },
+      "repository": {
+        "name": "minimal-clock",
+        "url": "https://github.com/tech-introspectors/minimal-clock",
+        "owner": {
+          "login": "tech-introspectors",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/68457713?v=4",
+          "url": "https://github.com/tech-introspectors"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NTcyMzgxMDE=",
+      "closed": true,
+      "title": "Text-box in the mobile view need to fix",
+      "createdAt": "2020-07-15T10:21:02Z",
+      "url": "https://github.com/mg143pavankumar/Speech-To-Text/issues/10",
+      "number": 10,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Speech-To-Text",
+        "url": "https://github.com/mg143pavankumar/Speech-To-Text",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NTcxMTMyMzM=",
+      "closed": true,
+      "title": "content should be fixed ",
+      "createdAt": "2020-07-15T07:00:21Z",
+      "url": "https://github.com/mg143pavankumar/Speech-To-Text/issues/8",
+      "number": 8,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Speech-To-Text",
+        "url": "https://github.com/mg143pavankumar/Speech-To-Text",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NTcxMTIzNTg=",
+      "closed": true,
+      "title": "Text-box should be fixed",
+      "createdAt": "2020-07-15T06:58:39Z",
+      "url": "https://github.com/mg143pavankumar/Speech-To-Text/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Speech-To-Text",
+        "url": "https://github.com/mg143pavankumar/Speech-To-Text",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NTcwOTYwMDE=",
+      "closed": true,
+      "title": "menu buttons needed to fix it",
+      "createdAt": "2020-07-15T06:27:18Z",
+      "url": "https://github.com/mg143pavankumar/Speech-To-Text/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Speech-To-Text",
+        "url": "https://github.com/mg143pavankumar/Speech-To-Text",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NTcwOTMxMDc=",
+      "closed": true,
+      "title": "Remove border from the toggle button and move it to left corner",
+      "createdAt": "2020-07-15T06:21:02Z",
+      "url": "https://github.com/mg143pavankumar/Speech-To-Text/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Speech-To-Text",
+        "url": "https://github.com/mg143pavankumar/Speech-To-Text",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NTUzNjM3OTg=",
+      "closed": false,
+      "title": "Needed to add reset button in the game",
+      "createdAt": "2020-07-12T09:20:44Z",
+      "url": "https://github.com/mg143pavankumar/Tic-Tac-Toe/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Tic-Tac-Toe",
+        "url": "https://github.com/mg143pavankumar/Tic-Tac-Toe",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NTUzNjM1MDQ=",
+      "closed": false,
+      "title": "Needed to fix game to run only in portrait mode",
+      "createdAt": "2020-07-12T09:18:31Z",
+      "url": "https://github.com/mg143pavankumar/Tic-Tac-Toe/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Tic-Tac-Toe",
+        "url": "https://github.com/mg143pavankumar/Tic-Tac-Toe",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NTUyMzEwMTU=",
+      "closed": true,
+      "title": "Navigation not working in mobile view",
+      "createdAt": "2020-07-11T15:45:11Z",
+      "url": "https://github.com/Dantusaikamal/Weather-translation/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars2.githubusercontent.com/u/65682028?u=8b798c47f1f574f228e75b2f8caff9cbc3e867dc&v=4",
+            "name": "Sai kamal",
+            "url": "https://github.com/Dantusaikamal"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Weather-translation",
+        "url": "https://github.com/Dantusaikamal/Weather-translation",
+        "owner": {
+          "login": "Dantusaikamal",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/65682028?u=8b798c47f1f574f228e75b2f8caff9cbc3e867dc&v=4",
+          "url": "https://github.com/Dantusaikamal"
+        }
+      }
+    }
+  ],
+  "open": 7,
+  "totalCount": 14
+}
