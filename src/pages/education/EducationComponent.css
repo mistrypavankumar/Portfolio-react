@@ -1,3 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
 .education-main {
   width: 100vw;
 }
