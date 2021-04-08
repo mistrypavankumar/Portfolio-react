@@ -1,22 +1,120 @@
 {
-  "closed": 7,
+  "closed": 10,
   "data": [
     {
-      "id": "MDU6SXNzdWU3NTc3NTg1Mzc=",
+      "id": "MDU6SXNzdWU4MzA5Mjg5Njg=",
       "closed": false,
-      "title": "mobile view needed to fix",
+      "title": "Needed to add contact page",
+      "createdAt": "2021-03-13T16:00:03Z",
+      "url": "https://github.com/mg143pavankumar/furniture-gallery-web/issues/9",
+      "number": 9,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "furniture-gallery-web",
+        "url": "https://github.com/mg143pavankumar/furniture-gallery-web",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3OTI2NDMzMTM=",
+      "closed": true,
+      "title": "Needed to make this website responsive",
+      "createdAt": "2021-01-23T20:27:54Z",
+      "url": "https://github.com/mg143pavankumar/glass-effect-quiz-website/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
+            "name": "Mistry Pavan Kumar",
+            "url": "https://github.com/mg143pavankumar"
+          }
+        ]
+      },
+      "repository": {
+        "name": "glass-effect-quiz-website",
+        "url": "https://github.com/mg143pavankumar/glass-effect-quiz-website",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3ODYwMjM4ODE=",
+      "closed": true,
+      "title": "Admin login form needed to fix for small devices",
+      "createdAt": "2021-01-14T14:15:52Z",
+      "url": "https://github.com/mg143pavankumar/furniture-gallery-web/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
+            "name": "Mistry Pavan Kumar",
+            "url": "https://github.com/mg143pavankumar"
+          }
+        ]
+      },
+      "repository": {
+        "name": "furniture-gallery-web",
+        "url": "https://github.com/mg143pavankumar/furniture-gallery-web",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3ODYwMTg4OTI=",
+      "closed": false,
+      "title": "Needed to create dashboard for admin ",
+      "createdAt": "2021-01-14T14:09:17Z",
+      "url": "https://github.com/mg143pavankumar/furniture-gallery-web/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
+            "name": "Mistry Pavan Kumar",
+            "url": "https://github.com/mg143pavankumar"
+          }
+        ]
+      },
+      "repository": {
+        "name": "furniture-gallery-web",
+        "url": "https://github.com/mg143pavankumar/furniture-gallery-web",
+        "owner": {
+          "login": "mg143pavankumar",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
+          "url": "https://github.com/mg143pavankumar"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NTc3NTg1Mzc=",
+      "closed": true,
+      "title": "Needed to make website responsive",
       "createdAt": "2020-12-05T18:55:06Z",
-      "url": "https://github.com/mg143pavankumar/megas-pizza/issues/5",
+      "url": "https://github.com/mg143pavankumar/meghas-pizza/issues/5",
       "number": 5,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "megas-pizza",
-        "url": "https://github.com/mg143pavankumar/megas-pizza",
+        "name": "meghas-pizza",
+        "url": "https://github.com/mg143pavankumar/meghas-pizza",
         "owner": {
           "login": "mg143pavankumar",
-          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
           "url": "https://github.com/mg143pavankumar"
         }
       }
@@ -36,7 +134,7 @@
         "url": "https://github.com/mg143pavankumar/Flash-Notes",
         "owner": {
           "login": "mg143pavankumar",
-          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
           "url": "https://github.com/mg143pavankumar"
         }
       }
@@ -56,7 +154,7 @@
         "url": "https://github.com/mg143pavankumar/Flash-Notes",
         "owner": {
           "login": "mg143pavankumar",
-          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
           "url": "https://github.com/mg143pavankumar"
         }
       }
@@ -76,7 +174,7 @@
         "url": "https://github.com/mg143pavankumar/flutter-calculator-app",
         "owner": {
           "login": "mg143pavankumar",
-          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
           "url": "https://github.com/mg143pavankumar"
         }
       }
@@ -91,12 +189,12 @@
       "assignees": {
         "nodes": [
           {
-            "avatarUrl": "https://avatars2.githubusercontent.com/u/65682028?u=8b798c47f1f574f228e75b2f8caff9cbc3e867dc&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/65682028?u=8b798c47f1f574f228e75b2f8caff9cbc3e867dc&v=4",
             "name": "Sai kamal",
             "url": "https://github.com/Dantusaikamal"
           },
           {
-            "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
             "name": "Mistry Pavan Kumar",
             "url": "https://github.com/mg143pavankumar"
           }
@@ -107,7 +205,7 @@
         "url": "https://github.com/tech-introspectors/minimal-clock",
         "owner": {
           "login": "tech-introspectors",
-          "avatarUrl": "https://avatars2.githubusercontent.com/u/68457713?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68457713?v=4",
           "url": "https://github.com/tech-introspectors"
         }
       }
@@ -122,12 +220,12 @@
       "assignees": {
         "nodes": [
           {
-            "avatarUrl": "https://avatars2.githubusercontent.com/u/65682028?u=8b798c47f1f574f228e75b2f8caff9cbc3e867dc&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/65682028?u=8b798c47f1f574f228e75b2f8caff9cbc3e867dc&v=4",
             "name": "Sai kamal",
             "url": "https://github.com/Dantusaikamal"
           },
           {
-            "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
             "name": "Mistry Pavan Kumar",
             "url": "https://github.com/mg143pavankumar"
           }
@@ -138,7 +236,7 @@
         "url": "https://github.com/tech-introspectors/minimal-clock",
         "owner": {
           "login": "tech-introspectors",
-          "avatarUrl": "https://avatars2.githubusercontent.com/u/68457713?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68457713?v=4",
           "url": "https://github.com/tech-introspectors"
         }
       }
@@ -158,7 +256,7 @@
         "url": "https://github.com/mg143pavankumar/Speech-To-Text",
         "owner": {
           "login": "mg143pavankumar",
-          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
           "url": "https://github.com/mg143pavankumar"
         }
       }
@@ -178,7 +276,7 @@
         "url": "https://github.com/mg143pavankumar/Speech-To-Text",
         "owner": {
           "login": "mg143pavankumar",
-          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
           "url": "https://github.com/mg143pavankumar"
         }
       }
@@ -198,7 +296,7 @@
         "url": "https://github.com/mg143pavankumar/Speech-To-Text",
         "owner": {
           "login": "mg143pavankumar",
-          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
           "url": "https://github.com/mg143pavankumar"
         }
       }
@@ -218,7 +316,7 @@
         "url": "https://github.com/mg143pavankumar/Speech-To-Text",
         "owner": {
           "login": "mg143pavankumar",
-          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
           "url": "https://github.com/mg143pavankumar"
         }
       }
@@ -238,7 +336,7 @@
         "url": "https://github.com/mg143pavankumar/Speech-To-Text",
         "owner": {
           "login": "mg143pavankumar",
-          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
           "url": "https://github.com/mg143pavankumar"
         }
       }
@@ -258,7 +356,7 @@
         "url": "https://github.com/mg143pavankumar/Tic-Tac-Toe",
         "owner": {
           "login": "mg143pavankumar",
-          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
           "url": "https://github.com/mg143pavankumar"
         }
       }
@@ -278,7 +376,7 @@
         "url": "https://github.com/mg143pavankumar/Tic-Tac-Toe",
         "owner": {
           "login": "mg143pavankumar",
-          "avatarUrl": "https://avatars0.githubusercontent.com/u/68140538?u=6dd421d6082dac4b459febb759035eb2a6f8d989&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68140538?u=840ccedb2b6dcea484873ef4bb3dc89995519f2f&v=4",
           "url": "https://github.com/mg143pavankumar"
         }
       }
@@ -293,7 +391,7 @@
       "assignees": {
         "nodes": [
           {
-            "avatarUrl": "https://avatars2.githubusercontent.com/u/65682028?u=8b798c47f1f574f228e75b2f8caff9cbc3e867dc&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/65682028?u=8b798c47f1f574f228e75b2f8caff9cbc3e867dc&v=4",
             "name": "Sai kamal",
             "url": "https://github.com/Dantusaikamal"
           }
@@ -304,12 +402,12 @@
         "url": "https://github.com/Dantusaikamal/Weather-translation",
         "owner": {
           "login": "Dantusaikamal",
-          "avatarUrl": "https://avatars2.githubusercontent.com/u/65682028?u=8b798c47f1f574f228e75b2f8caff9cbc3e867dc&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65682028?u=8b798c47f1f574f228e75b2f8caff9cbc3e867dc&v=4",
           "url": "https://github.com/Dantusaikamal"
         }
       }
     }
   ],
-  "open": 7,
-  "totalCount": 14
+  "open": 8,
+  "totalCount": 18
 }

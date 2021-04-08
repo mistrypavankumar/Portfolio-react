@@ -23,20 +23,6 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjAzNjQ4Nzk=",
-      "name": "flutter-web---Food_App_Ui",
-      "createdAt": "2020-12-10T19:05:04Z",
-      "url": "https://github.com/mg143pavankumar/flutter-web---Food_App_Ui",
-      "description": null,
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        }
-      ]
-    },
-    {
       "id": "MDEwOlJlcG9zaXRvcnkyOTM4Njc3OTY=",
       "name": "flutter_onboading_app",
       "createdAt": "2020-09-08T16:32:41Z",
@@ -82,10 +68,19 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyODc3NDA4OTY=",
-      "name": "flutter-calculator-app",
-      "createdAt": "2020-08-15T12:18:44Z",
-      "url": "https://github.com/mg143pavankumar/flutter-calculator-app",
+      "id": "MDEwOlJlcG9zaXRvcnkyODYyMjg5NTA=",
+      "name": "Flutter-News-App",
+      "createdAt": "2020-08-09T12:04:09Z",
+      "url": "https://github.com/mg143pavankumar/Flutter-News-App",
+      "description": null,
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMzUzNzM3MTM=",
+      "name": "Basic-Banking-App",
+      "createdAt": "2021-02-02T17:43:51Z",
+      "url": "https://github.com/mg143pavankumar/Basic-Banking-App",
       "description": null,
       "isFork": false,
       "languages": []

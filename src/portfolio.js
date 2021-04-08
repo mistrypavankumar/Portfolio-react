@@ -414,6 +414,17 @@ const experience = {
             "Developed a Debian Distro, an Operating System based on Linux kernel. The Distro comes pre-installed with all the softwares and Engineer would require.            ",
           color: "#ee3c26",
         },
+        {
+          title: "Basic Banking Application using Flutter and SQflite",
+          company: "The Sparks Foundation",
+          company_url: "https://www.thesparksfoundationsingapore.org/",
+          logo_path: "TSF_logo.png",
+          duration: "February 2021 - March 2021",
+          location: "Work From Home",
+          description:
+            "During this Internship, I developed a basic banking application in which we can transfer amount from one user to another in a single click. To develop this app i had used flutter and sqflite as a backend.",
+          color: "#1597bb",
+        },
       ],
     },
   ],
@@ -439,7 +450,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "#",
+    link: "https://mg143pavankumar.medium.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
