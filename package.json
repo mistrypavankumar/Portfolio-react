@@ -1,7 +1,7 @@
 {
-  "name": "Portfolio-react",
+  "name": "portfolio-react",
   "homepage": "https://mg143pavankumar.github.io/",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
@@ -11,36 +11,26 @@
     "test": "react-scripts test"
   },
   "dependencies": {
-    "@apollo/react-hooks": "^3.1.3",
-    "apollo-boost": "^0.4.4",
-    "baseui": "^9.106.2",
-    "bootstrap": "^4.4.1",
-    "chart.js": "^2.9.3",
-    "fs": "0.0.1-security",
-    "graphql": "^14.5.8",
+    "@apollo/react-hooks": "^4.0.0",
+    "apollo-boost": "^0.4.9",
+    "baseui": "^11.0.3",
+    "chart.js": "^3.7.1",
+    "fs": "^0.0.1-security",
     "node-fetch": "^2.6.0",
-    "node-sass": "^4.14.1",
-    "prettier-package-json": "^2.1.3",
-    "radium": "^0.26.0",
+    "node-sass": "^7.0.1",
+    "prettier-package-json": "^2.6.3",
     "react": "^16.10.2",
-    "react-bootstrap": "^1.0.0-beta.16",
-    "react-chartjs-2": "^2.9.0",
+    "react-bootstrap": "^2.4.0",
+    "react-chartjs-2": "^4.1.0",
     "react-dom": "^16.10.2",
     "react-reveal": "^1.2.2",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0",
-    "react-spring": "^8.0.27",
-    "styled-components": "^5.1.1",
-    "styletron-engine-atomic": "^1.4.6",
-    "styletron-react": "^5.2.7"
-  },
-  "devDependencies": {
-    "@iconify/icons-logos": "^1.1.0",
-    "@iconify/react": "^1.1.1",
-    "gh-pages": "^2.2.0",
-    "husky": "^4.3.5",
-    "lint-staged": "^10.5.3",
-    "prettier": "2.0.5"
+    "react-scripts": "^5.0.1",
+    "react-spring": "^9.4.5",
+    "styled-components": "^5.3.5",
+    "styletron-engine-atomic": "^1.4.8",
+    "styletron-engine-monolithic": "^0.0.6",
+    "styletron-react": "^6.0.2"
   },
   "browserslist": {
     "production": [
@@ -53,6 +43,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@iconify/react": "^3.2.1",
+    "gh-pages": "^4.0.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^12.4.1",
+    "prettier": "^2.6.2"
   },
   "eslintConfig": {
     "extends": "react-app"

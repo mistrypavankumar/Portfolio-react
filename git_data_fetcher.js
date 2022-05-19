@@ -1,5 +1,5 @@
 const openSource = {
-  githubConvertedToken: "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",
+  githubConvertedToken: "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",
   githubUserName: "mg143pavankumar",
 };
 
@@ -45,7 +45,6 @@ const query_pr = {
 
 const query_issue = {
   query: `query{
-
 		user(login: "${openSource.githubUserName}") {
     issues(last: 100, orderBy: {field:CREATED_AT, direction: DESC}){
       totalCount
@@ -75,7 +74,6 @@ const query_issue = {
       }
     }
   }
-
 	}`,
 };
 
