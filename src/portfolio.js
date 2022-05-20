@@ -13,7 +13,7 @@ const greeting = {
   subTitle:
     "Hi, I'm Pavan, a Full Stack Developer 🚀 from Hyderabad, India. Currently a sophomore student contributing to various open-sourced projects and working on quite a few personal projects.",
   resumeLink:
-    "https://drive.google.com/file/d/1O_iBjxFTPPvxLGmppzOBO1SX-kWA61xH/view",
+    "https://drive.google.com/file/d/1MPRP4_A9LM5K6ZPtDOPliES9aQRQK9I1/view?usp=sharing",
   portfolio_repository: "https://github.com/mg143pavankumar/Portfolio-react",
 };
 
@@ -424,6 +424,22 @@ const experience = {
           description:
             "During this Internship, I developed a basic banking application in which we can transfer amount from one user to another in a single click. To develop this app i had used flutter and sqflite as a backend.",
           color: "#1597bb",
+        },
+      ],
+    },
+    {
+      title: "Jobs",
+      experiences: [
+        {
+          title: "Full Stack Developer",
+          company: "SoftWeb Technologies",
+          company_url: "https://www.softwebcompany.tech",
+          logo_path: "softWeb-tech.jpg",
+          duration: "May 2022 - ",
+          location: "Work From Home",
+          description:
+            "Working as a Full Stack Developer in the field of Web Development and Mobile Application Development",
+          color: "#ee3c26",
         },
       ],
     },
