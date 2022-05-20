@@ -10,9 +10,12 @@
 .os-charts-body-div {
   text-align: center;
   display: flex;
+  justify-content: center;
+  align-items: center;
   flex-direction: row;
   /* table-layout: fixed; */
-  width: 100%;
+  width: 80%;
+  margin: 0 auto;
 }
 /* 
 .tb-item {

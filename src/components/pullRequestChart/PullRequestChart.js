@@ -1,42 +1,39 @@
 import React, { Component } from "react";
-import { Doughnut } from "react-chartjs-2";
+import DonutChart from "react-donut-chart";
+
 import { Fade } from "react-reveal";
 import "./PullRequestChart.css";
 import PullRequestData from "../../shared/opensource/pull_requests.json";
 
 class PullRequestChart extends Component {
   render() {
-    const data = {
-      labels: ["Open", "Merged", "Closed"],
-      datasets: [
-        {
-          data: [
-            PullRequestData["open"],
-            PullRequestData["merged"],
-            PullRequestData["closed"],
-          ],
-          backgroundColor: ["#28a745", "#6f42c1", "#d73a49"],
-          hoverBackgroundColor: ["#28a745dd", "#6f42c1dd", "#d73a49dd"],
-        },
-      ],
-    };
+    const data = [
+      {
+        label: "Open",
+        value: PullRequestData["open"],
+      },
+      {
+        label: "Merged",
+        value: PullRequestData["merged"],
+      },
+      {
+        label: "Close",
+        value: PullRequestData["closed"],
+      },
+    ];
 
     return (
       <div class="pr-chart">
         <Fade bottom duration={2000} distance="20px">
           <h2 className="pr-chart-header">Pull Request Distribution</h2>
         </Fade>
-        <Doughnut
+        <DonutChart
+          legend={false}
+          height={400}
+          width={400}
+          strokeColor={false}
           data={data}
-          options={{
-            padding: "0",
-            margin: "0",
-            responsive: true,
-            maintainAspectRatio: true,
-            animation: {
-              duration: 4000,
-            },
-          }}
+          colors={["#28a745", "#6f42c1", "#d73a49"]}
         />
       </div>
     );

@@ -54,6 +54,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.donutchart-innertext-label {
+  font-weight: 500;
+}
+
 /* Media Query */
 @media (max-width: 1380px) {
   html,
