@@ -1,6 +1,10 @@
+const dotenv = require("dotenv");
+
+dotenv.config();
+
 const openSource = {
-  githubConvertedToken: "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",
-  githubUserName: "mg143pavankumar",
+  githubConvertedToken: `${process.env.REACT_APP_GITHUB_CONVERTED_TOKEN}`,
+  githubUserName: `${process.env.REACT_APP_GITHUB_USERNAME}`,
 };
 
 const fetch = require("node-fetch");
