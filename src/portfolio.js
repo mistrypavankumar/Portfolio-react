@@ -77,28 +77,6 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
           style: {
@@ -154,6 +132,13 @@ const skills = {
           },
         },
         {
+          skillName: "React Native",
+          fontAwesomeClassname: "simple-icons:react",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
           skillName: "NodeJS",
           fontAwesomeClassname: "simple-icons:node-dot-js",
           style: {
@@ -200,27 +185,6 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
-          },
-        },
-        {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
           style: {
@@ -232,13 +196,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:mongodb",
           style: {
             color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
           },
         },
       ],
@@ -273,13 +230,6 @@ const skills = {
             color: "#FF7C00",
           },
         },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
-        },
       ],
     },
   ],
@@ -303,14 +253,6 @@ const competitiveSites = {
         color: "#5B4638",
       },
       profileLink: "https://www.codechef.com/users/pavan_kumar777",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/pavankumar143mg",
     },
   ],
 };
@@ -404,17 +346,6 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Linux developer Intern",
-          company: "Swecha",
-          company_url: "https://swecha.org/",
-          logo_path: "logo2.png",
-          duration: "July 2020 - August 2020",
-          location: "Work From Home",
-          description:
-            "Developed a Debian Distro, an Operating System based on Linux kernel. The Distro comes pre-installed with all the softwares and Engineer would require.            ",
-          color: "#ee3c26",
-        },
-        {
           title: "Basic Banking Application using Flutter and SQflite",
           company: "The Sparks Foundation",
           company_url: "https://www.thesparksfoundationsingapore.org/",
@@ -425,10 +356,21 @@ const experience = {
             "During this Internship, I developed a basic banking application in which we can transfer amount from one user to another in a single click. To develop this app i had used flutter and sqflite as a backend.",
           color: "#1597bb",
         },
+        {
+          title: "Linux developer Intern",
+          company: "Swecha",
+          company_url: "https://swecha.org/",
+          logo_path: "logo2.png",
+          duration: "July 2020 - August 2020",
+          location: "Work From Home",
+          description:
+            "Developed a Debian Distro, an Operating System based on Linux kernel. The Distro comes pre-installed with all the softwares and Engineer would require.            ",
+          color: "#ee3c26",
+        },
       ],
     },
     {
-      title: "Jobs",
+      title: "Part-Time Jobs",
       experiences: [
         {
           title: "Full Stack Developer",
@@ -458,7 +400,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "pavan_kumar.png",
+    profile_image_path: "pavan_kumar1.jpeg",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
