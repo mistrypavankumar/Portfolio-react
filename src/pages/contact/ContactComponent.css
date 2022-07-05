@@ -35,6 +35,15 @@
 .contact-heading-img-div {
   align-items: center;
   justify-content: center;
+  border-radius: 100%;
+  overflow: hidden;
+}
+
+.contact-heading-img-div img {
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  overflow: hidden;
 }
 
 .blog-heading-img-div {
