@@ -373,15 +373,37 @@ const experience = {
       title: "Part-Time Jobs",
       experiences: [
         {
+          title: "Software Development Associate",
+          company: "Kabb",
+          company_url: "https://www.kabb.in",
+          logo_path: "kabb.jpeg",
+          duration: "Jul 2022 - Present ",
+          location: "Work From Home",
+          description:
+            "Working as a Software Development Associate in the field of Mobile Application Development using React Native",
+          color: "#7752A7",
+        },
+        {
           title: "Full Stack Developer",
           company: "SoftWeb Technologies",
           company_url: "https://www.softwebcompany.tech",
           logo_path: "softWeb-tech.jpg",
-          duration: "May 2022 - ",
+          duration: "May 2022 - Dec 2022",
           location: "Work From Home",
           description:
-            "Working as a Full Stack Developer in the field of Web Development and Mobile Application Development",
+            "Worked as a Full Stack Developer in the field of Web Development and Mobile Application Development using React, React Navtive, Mongodb, firebase, etc.",
           color: "#ee3c26",
+        },
+        {
+          title: "Flutter Developer",
+          company: "OrgSpeak",
+          company_url: "https://orgspeak.com/",
+          logo_path: "orgSpeak.jpeg",
+          duration: "Oct 2022 - Dec 2022",
+          location: "Work From Home",
+          description:
+            "Worked as a Flutter Developer in the field of Mobile Application Development and my role was as an front-end developer.",
+          color: "#4a71e9",
         },
       ],
     },
