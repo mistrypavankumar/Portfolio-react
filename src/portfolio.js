@@ -13,7 +13,7 @@ const greeting = {
   subTitle:
     "Hi, I'm Pavan, a Full Stack Developer 🚀 from Hyderabad, India. Currently a sophomore student contributing to various open-sourced projects and working on quite a few personal projects.",
   resumeLink:
-    "https://drive.google.com/file/d/1MPRP4_A9LM5K6ZPtDOPliES9aQRQK9I1/view?usp=sharing",
+    "https://drive.google.com/file/d/1-9ILHZfmmnZvoIzQQloJ_rH48i4hxNvH/view?usp=sharing",
   portfolio_repository: "https://github.com/mg143pavankumar/Portfolio-react",
 };
 
@@ -384,17 +384,6 @@ const experience = {
           color: "#7752A7",
         },
         {
-          title: "Full Stack Developer",
-          company: "SoftWeb Technologies",
-          company_url: "https://www.softwebcompany.tech",
-          logo_path: "softWeb-tech.jpg",
-          duration: "May 2022 - Dec 2022",
-          location: "Work From Home",
-          description:
-            "Worked as a Full Stack Developer in the field of Web Development and Mobile Application Development using React, React Navtive, Mongodb, firebase, etc.",
-          color: "#ee3c26",
-        },
-        {
           title: "Flutter Developer",
           company: "OrgSpeak",
           company_url: "https://orgspeak.com/",
@@ -404,6 +393,17 @@ const experience = {
           description:
             "Worked as a Flutter Developer in the field of Mobile Application Development and my role was as an front-end developer.",
           color: "#4a71e9",
+        },
+        {
+          title: "Full Stack Developer",
+          company: "SoftWeb Technologies",
+          company_url: "https://www.softwebcompany.tech",
+          logo_path: "softWeb-tech.jpg",
+          duration: "May 2022 - Dec 2022",
+          location: "Work From Home",
+          description:
+            "Worked as a Full Stack Developer in the field of Web Development and Mobile Application Development using React, React Navtive, Mongodb, firebase, etc.",
+          color: "#ee3c26",
         },
       ],
     },
