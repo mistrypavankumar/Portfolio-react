@@ -300,7 +300,7 @@ const certifications = {
       subtitle: "- Chris Murphy",
       logo_path: "penn_logo.png",
       certificate_link:
-        "https://courses.edx.org/certificates/a87191b5c0124260bfa135c3a1cf0bf2",
+        "https://courses.edx.org/certificates/92fcf493c93e477faab40ce616306af6",
       alt_name: "edX",
       color_code: "#FFBB0099",
     },
@@ -327,7 +327,7 @@ const certifications = {
       subtitle: "- Vanderbilt university",
       logo_path: "vu.png",
       certificate_link:
-        "https://drive.google.com/file/d/17yu_YgiTDZWoaeYDjoqnXo9sRy4EmZsq/view",
+        "https://drive.google.com/file/d/1rOguNkfs_Y8SZJMSbCMoGbqC-aNe_Add/view",
       alt_name: "NPTEL",
       color_code: "#FFBB0099",
     },
