@@ -22,7 +22,7 @@
 </p>
 
 <p align="center"> 
-    <a href="https://mg143pavankumar.github.io" target="_blank">
+    <a href="https://mistrypavankumar.github.io" target="_blank">
     <img src="images/masterPortfolioThemes.png"></img>
   </a>
 </p>
@@ -40,7 +40,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://mg143pavankumar.github.io/)**
+To view a live example, **[click here](https://mistrypavankumar.github.io/)**
 
 # Clone And Use 📋
 
@@ -49,7 +49,7 @@ To view a live example, **[click here](https://mg143pavankumar.github.io/)**
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page.
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
   - ```python
-     git clone https://github.com/mg143pavankumar/Portfolio-react.git
+     git clone https://github.com/mistrypavankumar/Portfolio-react.git
     ```
   - This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:

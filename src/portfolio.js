@@ -13,23 +13,23 @@ const greeting = {
   subTitle:
     "Hi, I'm Pavan, a Full Stack Developer 🚀 from Hyderabad, India. Currently a sophomore student contributing to various open-sourced projects and working on quite a few personal projects.",
   resumeLink:
-    "https://drive.google.com/file/d/1-9ILHZfmmnZvoIzQQloJ_rH48i4hxNvH/view?usp=sharing",
-  portfolio_repository: "https://github.com/mg143pavankumar/Portfolio-react",
+    "https://drive.google.com/file/d/1uTNqqSWnvWzUQSFYntoHrhnjCgQ9bRN9/view?usp=sharing",
+  portfolio_repository: "https://github.com/mistrypavankumar/Portfolio-react",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/mg143pavankumar",
+  // github: "https://github.com/mistrypavankumar",
   // linkedin: "https://www.linkedin.com/in/mistry-pavan-kumar-5067b21b1/",
   // gmail: "pavansharma.mg143@gmail.com",
-  // gitlab: "https://gitlab.com/mg143pavankumar",
+  // gitlab: "https://gitlab.com/mistrypavankumar",
   // facebook: "https://www.facebook.com/pavan.mistry.143mg.77/",
   // twitter: "https://twitter.com/pavan7143mg",
   // instagram: "https://www.instagram.com/pavan_kumar143mg/"
 
   {
     name: "Github",
-    link: "https://github.com/mg143pavankumar",
+    link: "https://github.com/mistrypavankumar",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -430,7 +430,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://mg143pavankumar.medium.com/",
+    link: "https://mistrypavankumar.medium.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {

@@ -13,7 +13,7 @@ jobs:
         id: get_pull_requests
         with:
           query: |
-            query user(login: "mg143pavankumar") {
+            query user(login: "mistrypavankumar") {
               pullRequests(last: 100, orderBy: {field: CREATED_AT, direction: DESC}) {
                 totalCount
                 nodes {
